@@ -1,7 +1,6 @@
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
 
-
 <div class="navbar bg-primary">
     <div class="navbar-start">
       <label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open drawer</label>
@@ -23,6 +22,7 @@
             <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Nord" value="nord"/></li>
             <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Dracula" value="dracula"/></li>
             <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Pastel" value="pastel"/></li>
+            <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Forest" value="forest"/></li>
           </ul>
         </div>
       </div>
@@ -49,6 +49,7 @@
       <li><a href="/documents">Documents</a></li>
       <li><a href="/ai">AI</a></li>
       <li><a href="/guides">Guides</a></li>
+      <li><a href="/leaks">Leaks</a></li>
       <li><a href="/misc">Misc</a></li>
     </ul>
   </div>

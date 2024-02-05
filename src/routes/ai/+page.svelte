@@ -1,34 +1,34 @@
 <div class="w-screen items-stretch">
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://www.qbittorrent.org/download" target="_blank">
+        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://chat.openai.com/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">ChatGPT</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Best torrent client atm.</p>
-                <div class="badge badge-warning m-2">Client</div>
+                <p class="text-zinc-800 font-medium">Most popular AI Chatbot made by OpenAI.</p>
+                <div class="badge badge-primary m-2">Chat</div><div class="badge badge-error m-2">Image+</div>
             </div>
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3" href="https://bt4gprx.com/" target="_blank">
+        <a class="btn btn-accent card card-normal h-32 m-3" href="https://bard.google.com/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">Google Bard</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Biggest Torrent library.</p>
-                <div class="badge badge-secondary m-2">ALL</div>
+                <p class="text-zinc-800 font-medium">Google has its own AI Chatbot.</p>
+                <div class="badge badge-primary m-2">Chat</div><div class="badge badge-warning m-2">Image</div>
             </div>
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://btdig.com/index.htm" target="_blank">
+        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://www.blackbox.ai/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">BlackBox</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Torrent library with tree view.</p>
-                <div class="badge badge-secondary m-2">ALL</div>
+                <p class="text-zinc-800 font-medium">AI Chatbot made for programmers.</p>
+                <div class="badge badge-primary m-2">Chat</div>
             </div>
         </a>
     </div>
@@ -38,63 +38,96 @@
                 <h1 class="font-bold text-2xl">Copilot</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">All the stuff you need!</p>
-                <div class="badge badge-secondary m-2">ALL</div>
+                <p class="text-zinc-800 font-medium">AI Chatbot made by Microsoft</p>
+                <div class="badge badge-primary m-2">Chat</div><div class="badge badge-warning m-2">Image</div>
             </div>
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://torrentgalaxy.to/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3 " href="https://www.notion.so/product/ai" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Claude</h1>
+                <h1 class="font-bold text-2xl">Notion AI</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Quality content.</p>
-                <div class="badge badge-secondary m-2">ALL</div>
-            </div>
-        </a>
-    </div>
-    <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3 " href="https://yts.mx/" target="_blank">
-            <div>
-                <h1 class="font-bold text-2xl">Writing Assistant</h1>
-            </div>
-            <div>
-                <p class="text-zinc-800 font-medium">Torrenting was never easier.</p>
-                <div class="badge badge-secondary m-2">ALL</div>
+                <p class="text-zinc-800 font-medium">Improves your writing with AI.</p>
+                <div class="badge badge-secondary m-2">Text</div>
             </div>
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://rlsbb.ru/" target="_blank">
+        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://v0.dev/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">Website Template Generator</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Providing HQ content</p>
-                <div class="badge badge-secondary m-2">ALL</div>
+                <p class="text-zinc-800 font-medium">Generate Websites using AI.</p>
+                <div class="badge badge-secondary m-2">Text</div>
             </div>
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3 " href="http://videoteka.org/?p=torrents&pid=10" target="_blank">
+        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://openai.com/dall-e-2" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Videoteka</h1>
+                <h1 class="font-bold text-2xl">DALL-E 2</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Slovenian movies and cartoons</p>
-                <div class="badge badge-info m-2">SLOSINH</div><div class="badge badge-success m-2">Other</div>
+                <p class="text-zinc-800 font-medium">Generate AI images with OpenAI</p>
+                <div class="badge badge-warning m-2">Image</div>
             </div>
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3 " href="https://github.com/XIU2/TrackersListCollection" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3 " href="https://beta.dreamstudio.ai/generate" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">TrackersList</h1>
+                <h1 class="font-bold text-2xl">DreamStudio</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Trackers for improving DL speed.</p>
-                <div class="badge badge-primary m-2">Windows</div>
+                <p class="text-zinc-800 font-medium">Generate unique images for free.</p>
+                <div class="badge badge-warning m-2">Image</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal  h-32 m-3 " href="https://contentdetector.ai/" target="_blank">
+            <div>
+                <h1 class="font-bold text-2xl">Content Detector</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Detects your % of AI use in text.</p>
+                <div class="badge badge-secondary m-2">Text</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://undetectable.ai/" target="_blank">
+            <div>
+                <h1 class="font-bold text-2xl">AI Checker</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Detects if your writing was done by AI.</p>
+                <div class="badge badge-secondary m-2">Text</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://aitextconverter.com/" target="_blank">
+            <div>
+                <h1 class="font-bold text-2xl">AI Text Converter</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Converts AI text to Human</p>
+                <div class="badge badge-secondary m-2">Text</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal  h-32 m-3 " href="https://www.diffchecker.com/" target="_blank">
+            <div>
+                <h1 class="font-bold text-2xl">Text Comparator</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Compare 2 Text blocks.</p>
+                <div class="badge badge-secondary m-2">Text</div>
             </div>
         </a>
     </div>
