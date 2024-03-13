@@ -22,6 +22,18 @@
         </a>
     </div>
     <div class="inline-block">
+        <a class="btn btn-accent card card-normal h-32 m-3 indicator" href="https://www.you.com/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">You.com</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Advanced Search Engine AI</p>
+                <div class="badge badge-primary m-2">Chat</div><div class="badge badge-warning m-2">Image</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3 " href="https://www.blackbox.ai/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">BlackBox</h1>

@@ -143,13 +143,36 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3 indicator" href="https://it-tools.tech/" target="_blank">
-            <span class="indicator-item badge badge-error">NEW</span> 
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://it-tools.tech/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">IT Tools</h1>
             </div>
             <div>
                 <p class="text-zinc-800 font-medium">Tools for hackers and programmers.</p>
+                <div class="badge badge-primary m-2">Tools</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal  h-32 m-3 indicator" href="https://www.svgrepo.com/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">SVG REPO</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Open-licensed SVG Vector and Icons.</p>
+                <div class="badge badge-primary m-2">Tools</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal  h-32 m-3 indicator" href="https://monkeytype.com/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">Monkeytype</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Keyboard typing test.</p>
                 <div class="badge badge-primary m-2">Tools</div>
             </div>
         </a>

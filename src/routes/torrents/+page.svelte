@@ -11,7 +11,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal h-32 m-3 " href="https://bt4gprx.com/" target="_blank">
+        <a class="btn btn-accent card card-normal h-32 m-3" href="https://bt4gprx.com/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">BT4G</h1>
             </div>

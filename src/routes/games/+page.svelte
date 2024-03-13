@@ -33,6 +33,18 @@
         </a>
     </div>
     <div class="inline-block">
+        <a class="btn btn-accent card card-normal h-32 m-3 indicator" href="https://www.ovagames.com/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">Ova Games</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Frequently updated games.</p>
+                <div class="badge badge-primary m-2">Windows</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3 " href="https://fitgirl-repacks.site/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">FitgirlRepack</h1>
@@ -72,6 +84,18 @@
             </div>
             <div>
                 <p class="text-zinc-800 font-medium">Random Software and Games.</p>
+                <div class="badge badge-primary m-2">Windows</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal h-32 m-3 indicator" href="https://playnite.link/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">Playnite</h1>
+            </div>
+            <div>
+                <p class="text-zinc-800 font-medium">Open Source Video Game Library.</p>
                 <div class="badge badge-primary m-2">Windows</div>
             </div>
         </a>

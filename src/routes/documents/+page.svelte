@@ -29,7 +29,7 @@
             </div>
         </a>
     </div>
-    <div class="inline-block max-[420px]:w-full max-[420px]:text-center">
+    <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3" href="https://notesonai.com/Notes+on+AI" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">Notes on AI</h1>

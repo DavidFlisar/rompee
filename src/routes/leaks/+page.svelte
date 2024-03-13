@@ -22,7 +22,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://launcherleaks.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://launcherleaks.net/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">FiveM Leaks</h1>
             </div>
