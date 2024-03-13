@@ -5,7 +5,7 @@
                 <h1 class="font-bold text-2xl">Streaming Bundle</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Cheap alternative to Netflix for 3€/month</p>
+                <p class="text-zinc-800 font-medium">Cheap Netflix alternative for 3€/month</p>
                 <div class="badge badge-error m-2">Streaming</div>
             </div>
         </a>
