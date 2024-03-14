@@ -8,7 +8,7 @@
                 <h1 class="font-bold text-2xl">Stremio</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Download</p>
+                <p class="text-base-content font-medium">Download</p>
                 <div class="badge badge-secondary m-2">Media Player</div>
             </div>
         </a>
@@ -18,7 +18,7 @@
                 <h1 class="font-bold text-2xl">RealDebrid</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Download</p>
+                <p class="text-base-content font-medium">Download</p>
                 <div class="badge badge-primary m-2">Cloud Torrent</div>
             </div>
         </a>
@@ -28,7 +28,7 @@
                 <h1 class="font-bold text-2xl">Torrentio</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Download</p>
+                <p class="text-base-content font-medium">Download</p>
                 <div class="badge badge-warning m-2">Connection Tool</div>
             </div>
         </a>

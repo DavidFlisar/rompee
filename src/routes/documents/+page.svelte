@@ -5,7 +5,7 @@
                 <h1 class="font-bold text-2xl">Old PDF Technology</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Random PDF Documents.</p>
+                <p class="text-base-content font-medium">Random PDF Documents.</p>
             </div>
         </a>
     </div>
@@ -15,7 +15,7 @@
                 <h1 class="font-bold text-2xl">Vaporwave</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Images from category Vaporwave</p>
+                <p class="text-base-content font-medium">Images from category Vaporwave</p>
             </div>
         </a>
     </div>
@@ -25,7 +25,7 @@
                 <h1 class="font-bold text-2xl">Google Patents</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Search for patents all over the world</p>
+                <p class="text-base-content font-medium">Search for patents all over the world</p>
             </div>
         </a>
     </div>
@@ -35,7 +35,7 @@
                 <h1 class="font-bold text-2xl">Notes on AI</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">HQ Notes all about AI.</p>
+                <p class="text-base-content font-medium">HQ Notes all about AI.</p>
             </div>
         </a>
     </div>

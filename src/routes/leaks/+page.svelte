@@ -5,7 +5,7 @@
                 <h1 class="font-bold text-2xl">Leaked Patreon</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Content leaked from Patreon.</p>
+                <p class="text-base-content font-medium">Content leaked from Patreon.</p>
                 <div class="badge badge-primary m-2">Tools</div>
             </div>
         </a>
@@ -16,7 +16,7 @@
                 <h1 class="font-bold text-2xl">FiveM YMAP Leaks</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Leaks from FiveM.</p>
+                <p class="text-base-content font-medium">Leaks from FiveM.</p>
                 <div class="badge badge-secondary m-2">GTA V</div>
             </div>
         </a>
@@ -27,7 +27,7 @@
                 <h1 class="font-bold text-2xl">FiveM Leaks</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Another FiveM leaking site.</p>
+                <p class="text-base-content font-medium">Another FiveM leaking site.</p>
                 <div class="badge badge-secondary m-2">GTA V</div>
             </div>
         </a>

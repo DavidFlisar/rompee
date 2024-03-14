@@ -5,7 +5,7 @@
                 <h1 class="font-bold text-2xl">AnimeBase</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">English and German dubs only for you my friend.</p>
+                <p class="text-base-content font-medium">English and German dubs only for you my friend.</p>
                 <div class="badge badge-secondary m-2">Anime</div>
             </div>
         </a>
@@ -16,7 +16,7 @@
                 <h1 class="font-bold text-2xl">uFlix</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Netflix, but free.</p>
+                <p class="text-base-content font-medium">Netflix, but free.</p>
                 <div class="badge badge-info m-2">Movies/Series</div>
             </div>
         </a>
@@ -27,7 +27,7 @@
                 <h1 class="font-bold text-2xl">AniWave</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Fresh Anime out of the oven.</p>
+                <p class="text-base-content font-medium">Fresh Anime out of the oven.</p>
                 <div class="badge badge-secondary m-2">Anime</div>
             </div>
         </a>
@@ -38,7 +38,7 @@
                 <h1 class="font-bold text-2xl">SloFlix</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Slovenian premium standard of Netflix.</p>
+                <p class="text-base-content font-medium">Slovenian premium standard of Netflix.</p>
                 <div class="badge badge-primary m-2">SLOSINH</div><div class="badge badge-success m-2">Other</div>
             </div>
         </a>
@@ -49,7 +49,7 @@
                 <h1 class="font-bold text-2xl">Risanke</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Slovenian Cartoons for all ages.</p>
+                <p class="text-base-content font-medium">Slovenian Cartoons for all ages.</p>
                 <div class="badge badge-primary m-2">SLOSINH</div>
             </div>
         </a>
@@ -60,7 +60,7 @@
                 <h1 class="font-bold text-2xl">ŽivŽav</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Even more Slovenian Cartoons!</p>
+                <p class="text-base-content font-medium">Even more Slovenian Cartoons!</p>
                 <div class="badge badge-primary m-2">SLOSINH</div>
             </div>
         </a>
@@ -71,7 +71,7 @@
                 <h1 class="font-bold text-2xl">RTV 365</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Free Slovenian Content.</p>
+                <p class="text-base-content font-medium">Free Slovenian Content.</p>
                 <div class="badge badge-primary m-2">SLOSINH</div><div class="badge badge-success m-2">Other</div>
             </div>
         </a>
@@ -82,7 +82,7 @@
                 <h1 class="font-bold text-2xl">FMovies</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Watch all you want.</p>
+                <p class="text-base-content font-medium">Watch all you want.</p>
                 <div class="badge badge-info m-2">Movies/Series</div>
             </div>
         </a>
@@ -94,7 +94,7 @@
                 <h1 class="font-bold text-2xl">Cine.to</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Watch quality German & English movies.</p>
+                <p class="text-base-content font-medium">Watch quality German & English movies.</p>
                 <div class="badge badge-info m-2">Movies/Series</div><div class="badge badge-warning m-2">German</div>
             </div>
         </a>
@@ -105,7 +105,7 @@
                 <h1 class="font-bold text-2xl">IHaveNoTV</h1>
             </div>
             <div>
-                <p class="text-zinc-800 font-medium">Free Documentaries.</p>
+                <p class="text-base-content font-medium">Free Documentaries.</p>
                 <div class="badge badge-error m-2">Documentaries</div>
             </div>
         </a>
