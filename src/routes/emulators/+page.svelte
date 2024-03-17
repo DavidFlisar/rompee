@@ -40,8 +40,20 @@
                 <h1 class="font-bold text-2xl">NoPayStation</h1>
             </div>
             <div>
-                <p class="text-base-content font-medium">Generally almost all games for Playstations.</p>
+                <p class="text-base-content font-medium">Generally almost all games for PS3 and lower.</p>
                 <div class="badge badge-info m-2">PS3</div>
+            </div>
+        </a>
+    </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal h-32 m-3 indicator" href="https://dlpsgame.com/category/ps4/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">DLPSGame</h1>
+            </div>
+            <div>
+                <p class="text-base-content font-medium">PKG for all Playstations and more!</p>
+                <div class="badge badge-primary m-2">PS4</div><div class="badge badge-info m-2">PS3</div><div class="badge badge-success m-2">Other</div>
             </div>
         </a>
     </div>

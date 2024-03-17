@@ -69,7 +69,7 @@
     <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3 " href="https://v0.dev/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Website Template Generator</h1>
+                <h1 class="font-bold text-2xl">Web Template Generator</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Generate Websites using AI.</p>
@@ -124,7 +124,7 @@
     <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3 " href="https://aitextconverter.com/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">AI Text Converter</h1>
+                <h1 class="font-bold text-2xl">Text Converter</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Converts AI text to Human</p>
@@ -138,7 +138,7 @@
                 <h1 class="font-bold text-2xl">Text Comparator</h1>
             </div>
             <div>
-                <p class="text-base-content font-medium">Compare 2 Text blocks.</p>
+                <p class="text-base-content font-medium">Compare 2 Text Blocks.</p>
                 <div class="badge badge-secondary m-2">Text</div>
             </div>
         </a>

@@ -13,7 +13,7 @@
     <div class="inline-block">
         <a class="btn btn-accent card card-normal  h-32 m-3" href="https://vag.gg/forums/fivem-ymap/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">FiveM YMAP Leaks</h1>
+                <h1 class="font-bold text-2xl">FiveM YMAP</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Leaks from FiveM.</p>

@@ -2,7 +2,7 @@
     <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3" href="https://drive.google.com/drive/u/1/folders/1UuNytBYQHPdhUzHhickl1YDU1tluP6wF" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Old PDF Technology</h1>
+                <h1 class="font-bold text-2xl">Old Technology</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Random PDF Documents.</p>

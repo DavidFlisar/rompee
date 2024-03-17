@@ -11,9 +11,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://uxthemepatcher.com/windows-11-cursors-concept/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Modern Win11 Cursors</h1>
+                <h1 class="font-bold text-2xl">Modern Cursors</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Better Windows cursors</p>
@@ -24,9 +24,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://nilesoft.org/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Better Win11 ContextMenu</h1>
+                <h1 class="font-bold text-2xl">Better ContextMenu</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Old Context Menu for Windows 11</p>
@@ -37,7 +37,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://github.com/ShadowWhisperer/Remove-MS-Edge" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">Remove MS Edge</h1>
             </div>
@@ -50,7 +50,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://www.fullblackscreen.com/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">Test Screen Colors</h1>
             </div>
@@ -61,7 +61,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://stirlingsupply.co/en-eur/collections/free-presets" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">DaVinci Presets</h1>
             </div>
@@ -72,7 +72,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://www.yougetsignal.com/tools/open-ports/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">PortForward Tester</h1>
             </div>
@@ -83,9 +83,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://ninite.com/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Batch Software Install</h1>
+                <h1 class="font-bold text-2xl">Batch Install</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Install a lot of software in one click</p>
@@ -94,9 +94,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://filldb.info/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">MySQL Dummy Data</h1>
+                <h1 class="font-bold text-2xl">MySQL DummyData</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Dummy data for programmers</p>
@@ -105,9 +105,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://github.com/SpotX-Official/SpotX" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Cracked Win Spotify</h1>
+                <h1 class="font-bold text-2xl">Cracked Spotify</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Listen to Spotify without annoying ads</p>
@@ -116,9 +116,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://sharkle.com/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Random Awesomeness</h1>
+                <h1 class="font-bold text-2xl">Random Websites</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Random websites for boredom</p>
@@ -127,7 +127,7 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tiiny.host/" target="_blank">
             <div>
                 <h1 class="font-bold text-2xl">Project Hoster</h1>
             </div>
@@ -138,9 +138,9 @@
         </a>
     </div>
     <div class="inline-block">
-        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://tinywow.com/" target="_blank">
+        <a class="btn btn-accent card card-normal  h-32 m-3" href="https://www.namecheckr.com/" target="_blank">
             <div>
-                <h1 class="font-bold text-2xl">Brand Name Checker</h1>
+                <h1 class="font-bold text-2xl">Brand Checker</h1>
             </div>
             <div>
                 <p class="text-base-content font-medium">Check for available brand names on social media.</p>
