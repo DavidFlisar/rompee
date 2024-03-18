@@ -3,15 +3,17 @@
   import Logo from "$lib/images/rompeelogo1.png";
 </script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
-<div class="navbar bg-primary">
+<div class="navbar bg-primary h-12">
     <div class="navbar-start">
       <label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open drawer</label>
       <!-- lg:hidden v classi label eno gor -->
     </div>
     <div class="navbar-center">
-      <label class="btn btn-ghost">
-        <img class="w-7 h-8" src={Logo} alt="logo">
-      </label>
+      <a href="/">
+        <label class="btn btn-ghost">
+          <img class="w-7 h-8" src={Logo} alt="logo">
+        </label>
+      </a>
     </div>
     <div class="navbar-end">
       <div class="w-14 h-14">
