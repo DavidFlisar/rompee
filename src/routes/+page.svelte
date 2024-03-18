@@ -2,6 +2,7 @@
     #dropdown-menu a {
         display: none;
     }
+
 </style>
 
 <div class="w-screen items-stretch">
@@ -26,7 +27,6 @@
         </div>
     </form>
 -->
-
     <form action="https://www.google.com/search" method="get" target="_blank" class="max-w-lg mx-auto"> 
         <div class="relative">
             <div id="dropdown-menu" class="mt-2 rounded-md shadow-lg bg-base-200 ring-1 ring-black ring-opacity-5 p-1 space-y-1">
@@ -790,7 +790,6 @@ onMount(() => {
         });
     }
 });
-
 
 </script>
 
