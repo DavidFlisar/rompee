@@ -757,6 +757,13 @@ onMount(() => {
                 }
             });
         });
+        
+        document.addEventListener('keydown', (event) => {
+            if (event.ctrlKey && event.key === 'k') {
+                event.preventDefault(); // Prevent the default behavior (e.g., opening bookmarks in some browsers)
+                searchInput!.focus(); // Focus on the search input
+            }
+        });
     }
 });
 
