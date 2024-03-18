@@ -42,6 +42,14 @@
                     <!-- Dropdown content goes here -->
                     <ul class="menu">
                         <li>
+                            <a href="https://10web.io/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
+                                <div class="badge badge-warning">
+                                    <b>AI</b>
+                                </div>
+                                10web
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://codepen.io/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
                                 <div class="badge badge-error">
                                     <b>Misc</b>
@@ -54,7 +62,7 @@
                                 <div class="badge badge-warning">
                                     <b>AI</b>
                                 </div>
-                                Presentation Maker
+                                Tome
                             </a>
                         </li>
                         <li>
