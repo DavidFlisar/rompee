@@ -143,4 +143,16 @@
             </div>
         </a>
     </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal  h-32 m-3 indicator" href="https://tome.app/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">Presentation Maker</h1>
+            </div>
+            <div>
+                <p class="text-base-content font-medium">Create presentations using AI.</p>
+                <div class="badge badge-secondary m-2">Text</div><div class="badge badge-warning m-2">Image</div>
+            </div>
+        </a>
+    </div>
 </div>

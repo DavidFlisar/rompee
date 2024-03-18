@@ -183,4 +183,16 @@
             </div>
         </a>
     </div>
+    <div class="inline-block">
+        <a class="btn btn-accent card card-normal  h-32 m-3 indicator" href="https://codepen.io/" target="_blank">
+            <span class="indicator-item badge badge-error">NEW</span> 
+            <div>
+                <h1 class="font-bold text-2xl">CodePen</h1>
+            </div>
+            <div>
+                <p class="text-base-content font-medium">Codes of different projects</p>
+                <div class="badge badge-success m-2">Tools</div>
+            </div>
+        </a>
+    </div>
 </div>

@@ -42,6 +42,22 @@
                     <!-- Dropdown content goes here -->
                     <ul class="menu">
                         <li>
+                            <a href="https://codepen.io/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
+                                <div class="badge badge-error">
+                                    <b>Misc</b>
+                                </div>
+                                CodePen
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://tome.app/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
+                                <div class="badge badge-warning">
+                                    <b>AI</b>
+                                </div>
+                                Presentation Maker
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://dlpsgame.com/category/ps4/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
                                 <div class="badge badge-accent">
                                     <b>Emulators</b>
@@ -757,7 +773,7 @@ onMount(() => {
                 }
             });
         });
-        
+
         document.addEventListener('keydown', (event) => {
             if (event.ctrlKey && event.key === 'k') {
                 event.preventDefault(); // Prevent the default behavior (e.g., opening bookmarks in some browsers)

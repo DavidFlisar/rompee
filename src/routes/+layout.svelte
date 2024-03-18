@@ -1,7 +1,23 @@
 <script>
   import "$lib/input.css";
   import Logo from "$lib/images/rompeelogo1.png";
+
+  if (typeof document !== 'undefined') {
+  document.addEventListener('keydown', (event) => {
+    if (event.ctrlKey && event.key === 'h') {
+      event.preventDefault(); 
+      const homeLink = document.getElementById('home-link');
+      if (homeLink !== null) {
+        homeLink.click();
+      }
+    }
+  });
+}
+
+
+
 </script>
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
 <div class="navbar bg-primary h-12">
     <div class="navbar-start">
@@ -9,7 +25,7 @@
       <!-- lg:hidden v classi label eno gor -->
     </div>
     <div class="navbar-center">
-      <a href="/">
+      <a href="/" id="home-link">
         <label class="btn btn-ghost">
           <img class="w-7 h-8" src={Logo} alt="logo">
         </label>
@@ -109,3 +125,5 @@
     </ul>
   </div>
 </div>
+
+
