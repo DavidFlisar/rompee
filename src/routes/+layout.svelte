@@ -20,7 +20,9 @@
 <div class="navbar bg-primary h-12">
   
     <div class="navbar-start">
-      <label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open drawer</label>
+      <label for="my-drawer-2" class="btn btn-primary drawer-button">
+        <svg width="40px" height="40px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.8640000000000001"></g><g id="SVGRepo_iconCarrier"><path d="M6 8H18" stroke="oklch(var(--bc))" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M6 12H18" stroke="oklch(var(--bc))" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M6 16H18" stroke="oklch(var(--bc))" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></svg>
+      </label>
       <!-- lg:hidden v classi label eno gor -->
     </div>
     <div class="navbar-center">
@@ -34,7 +36,7 @@
       <div class="w-14 h-14">
         <div class="dropdown dropdown-end mb-72">
           <div tabindex="0" role="button" class="btn btn-ghost btn-circle m-1">
-            <svg width="22px" height="22px" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="currentColor" d="M608 704v160a96 96 0 0 1-192 0V704h-96a128 128 0 0 1-128-128h640a128 128 0 0 1-128 128h-96zM192 512V128.064h640V512H192z"></path></g></svg>
+            <svg width="22px" height="22px" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" fill="oklch(var(--bc))"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="currentColor" d="M608 704v160a96 96 0 0 1-192 0V704h-96a128 128 0 0 1-128-128h640a128 128 0 0 1-128 128h-96zM192 512V128.064h640V512H192z"></path></g></svg>
           </div>
           <ul tabindex="0" class="dropdown-content z-[2] p-2 shadow-2xl bg-base-300 rounded-box w-44">
             <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Default" value="default"/></li>
@@ -47,7 +49,7 @@
       </div>
     </div>
 </div>
-<div class="drawer lg:drawer-open">
+<div class="drawer">
   <!-- lg:drawer-open v classi div eno gor -->
   <input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
   

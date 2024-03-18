@@ -37,7 +37,7 @@
                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
                         </svg>
                     </div>
-                    <input type="search" id="search-input" name="q" class="block w-full p-4 ps-10 text-sm rounded-lg bg-base-100 dark:placeholder-gray-400" placeholder="Search Items..." required autocomplete="off"/>
+                    <input type="search" id="search-input" name="q" class="kbd block w-full p-4 ps-10 text-sm rounded-lg bg-base-100 dark:placeholder-gray-400" placeholder="Search Items..." required autocomplete="off"/>
                 </div>
                     <!-- Dropdown content goes here -->
                     <ul class="menu">
