@@ -14,12 +14,11 @@
   });
 }
 
-
-
 </script>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
 <div class="navbar bg-primary h-12">
+  
     <div class="navbar-start">
       <label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open drawer</label>
       <!-- lg:hidden v classi label eno gor -->
@@ -48,15 +47,16 @@
       </div>
     </div>
 </div>
-
 <div class="drawer lg:drawer-open">
   <!-- lg:drawer-open v classi div eno gor -->
   <input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
   
   <div class="drawer-content flex p-20">
+    
     <slot/>
-
-
+    
+    
+    
   </div> 
   <div class="drawer-side">
     <label for="my-drawer-2" aria-label="close sidebar" class="drawer-overlay"></label> 
@@ -125,5 +125,3 @@
     </ul>
   </div>
 </div>
-
-
