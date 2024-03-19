@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import "$lib/input.css";
   import Logo from "$lib/images/rompeelogo1.png";
 
@@ -12,14 +12,13 @@
       }
     }
   });
-}
-
+  }
 </script>
+
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
 
   <div class="navbar bg-primary h-12">
-    
       <div class="navbar-start">
         <label for="my-drawer-2" class="btn btn-primary drawer-button">
           <svg width="40px" height="40px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.8640000000000001"></g><g id="SVGRepo_iconCarrier"><path d="M6 8H18" stroke="oklch(var(--bc))" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M6 12H18" stroke="oklch(var(--bc))" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M6 16H18" stroke="oklch(var(--bc))" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></g></svg>
