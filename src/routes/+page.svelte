@@ -42,11 +42,17 @@
                     <!-- Dropdown content goes here -->
                     <ul class="menu">
                         <li>
-                            <a href="https://10web.io/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
-                                <div class="badge badge-warning">
-                                    <b>AI</b>
-                                </div>
-                                10web
+                            <a href="https://repack-mechanics.com/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
+                                <div class="badge badge-secondary">
+                                    <b>Games</b>
+                                R.G. Mechanics
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.elamigos-games.net/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
+                                <div class="badge badge-secondary">
+                                    <b>Games</b>
+                                ElAmigos
                             </a>
                         </li>
                         <li>
