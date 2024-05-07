@@ -45,6 +45,7 @@
                             <a href="https://repack-mechanics.com/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
                                 <div class="badge badge-secondary">
                                     <b>Games</b>
+                                </div>
                                 R.G. Mechanics
                             </a>
                         </li>
@@ -52,6 +53,7 @@
                             <a href="https://www.elamigos-games.net/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
                                 <div class="badge badge-secondary">
                                     <b>Games</b>
+                                </div>
                                 ElAmigos
                             </a>
                         </li>
