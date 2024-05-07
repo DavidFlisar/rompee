@@ -42,6 +42,14 @@
                     <!-- Dropdown content goes here -->
                     <ul class="menu">
                         <li>
+                            <a href="https://oldgamesdownload.com/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
+                                <div class="badge badge-secondary">
+                                    <b>Games</b>
+                                </div>
+                                Old Games
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://repack-mechanics.com/" target="_blank" class="block px-4 py-2 text-base-content cursor-pointer rounded-md">
                                 <div class="badge badge-secondary">
                                     <b>Games</b>
