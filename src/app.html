@@ -1,15 +1,21 @@
 <!doctype html>
 <html lang="en">
+  <head>
+    <script>
+      // Apply the saved theme immediately before anything else
+      const storedTheme = localStorage.getItem('theme') || 'default';
+      document.documentElement.className = storedTheme;
 
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="%sveltekit.assets%/rompeelogo3.png" />
-		<!--Can clean up rompeelogo1 and rompeelogo2 after a while-->
-		<title>Rompee Links</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		%sveltekit.head%
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">%sveltekit.body%</div>
-	</body>
+      // Disable transitions during this phase to prevent delay
+      document.documentElement.style.transition = 'none'; 
+    </script>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%sveltekit.assets%/rompeelogo3.png" />
+    <title>Rompee Links</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    %sveltekit.head%
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">%sveltekit.body%</div>
+  </body>
 </html>

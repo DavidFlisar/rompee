@@ -1,17 +1,18 @@
 <script lang="ts">
   import "$lib/input.css";
   import Logo from "$lib/images/rompeelogo1.png";
-
+  import { theme } from '$lib/store.js'; // Import the theme store
+  
   if (typeof document !== 'undefined') {
-  document.addEventListener('keydown', (event) => {
-    if (event.ctrlKey && event.key === 'h') {
-      event.preventDefault(); 
-      const homeLink = document.getElementById('home-link');
-      if (homeLink !== null) {
-        homeLink.click();
+    document.addEventListener('keydown', (event) => {
+      if (event.ctrlKey && event.key === 'h') {
+        event.preventDefault(); 
+        const homeLink = document.getElementById('home-link');
+        if (homeLink !== null) {
+          homeLink.click();
+        }
       }
-    }
-  });
+    });
   }
 </script>
 
@@ -39,10 +40,10 @@
               <svg width="22px" height="22px" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" fill="oklch(var(--bc))"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="currentColor" d="M608 704v160a96 96 0 0 1-192 0V704h-96a128 128 0 0 1-128-128h640a128 128 0 0 1-128 128h-96zM192 512V128.064h640V512H192z"></path></g></svg>
             </div>
             <ul tabindex="0" class="dropdown-content z-[2] p-2 shadow-2xl bg-base-300 rounded-box w-44">
-              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Default" value="default"/></li>
-              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Rompee" value="valentine"/></li>
-              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Black" value="black"/></li>
-              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Pastel" value="pastel"/></li>
+              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Default" value="default" bind:group={$theme}/></li>
+              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Rompee" value="valentine" bind:group={$theme}/></li>
+              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Black" value="black" bind:group={$theme}/></li>
+              <li><input type="radio" name="theme-dropdown" class="theme-controller btn btn-sm btn-block btn-ghost justify-start" aria-label="Pastel" value="pastel" bind:group={$theme}/></li>
               <!-- forest + dracula theme removed -->
             </ul>
           </div>
