@@ -1,18 +1,21 @@
 import { writable } from 'svelte/store';
 import { browser } from '$app/env';
 
-export const theme = writable('default'); // set the default value to 'default'
+export const theme = writable('default'); // Default theme
 
 if (browser) {
-  // check if the browser has a previous value for the theme
+  // Check if a theme is stored in localStorage
   const storedTheme = localStorage.getItem('theme');
   if (storedTheme) {
-    // use the stored value if it exists
-    theme.set(storedTheme);
+    theme.set(storedTheme); // Set theme from localStorage
+    document.body.className = storedTheme; // Apply the theme
   }
 
-  // subscribe to the theme store and update the localStorage
+  // Subscribe to theme changes and update both localStorage and the DOM
   theme.subscribe((value) => {
-    localStorage.setItem('theme', value);
+    if (value) {
+      localStorage.setItem('theme', value); // Save to localStorage
+      document.body.className = value; // Apply the new theme
+    }
   });
 }
