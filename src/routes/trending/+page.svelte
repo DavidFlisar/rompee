@@ -5,7 +5,7 @@
   let error = '';
 
   const API_KEY = '1bd8a71355e04f8a92eba544559ab479'; // Rawg API key
-  const API_URL = `https://api.rawg.io/api/games?key=${API_KEY}&dates=2025-01-01,2025-02-01&ordering=-added&page_size=7`;
+  const API_URL = `https://api.rawg.io/api/games?key=${API_KEY}&dates=2024-06-01,2025-02-01&ordering=-added&page_size=7`;
 
   // Fetch games from the Rawg API
   onMount(async () => {
