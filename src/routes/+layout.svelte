@@ -15,10 +15,15 @@
     });
   }
 
+import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+import { injectAnalytics } from '@vercel/analytics/sveltekit';
+ 
+injectSpeedInsights();
+injectAnalytics();
+
 </script>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
-
   <div class="navbar bg-primary h-12">
       <div class="navbar-start">
         <label for="my-drawer-2" class="btn btn-primary drawer-button">
