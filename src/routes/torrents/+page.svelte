@@ -140,27 +140,38 @@
       
       <!-- Include this JavaScript for mobile tap functionality -->
       <script>
-        let tapCount = 0;
         const cardLink = document.getElementById('card-link');
-        
-        cardLink.addEventListener('touchend', function(event) {
+        let tapCount = 0;
+        let tapTimeout;
+      
+        // Add touch start event listener to track first tap
+        cardLink.addEventListener('touchstart', function(event) {
           tapCount++;
       
-          // Prevent default action on first tap to show description
+          // Prevent default behavior on first tap
           if (tapCount === 1) {
-            event.preventDefault();  // Prevent the default link behavior
+            event.preventDefault(); // Prevent immediate navigation
       
-            // Show description on the first tap
+            // Show hover effect
             const hoverEffect = cardLink.querySelector('.absolute > div');
             hoverEffect.classList.add('opacity-100');
             hoverEffect.classList.remove('opacity-0');
+            
+            // Reset timeout after a short delay to allow for second tap
+            clearTimeout(tapTimeout);
+            tapTimeout = setTimeout(function() {
+              tapCount = 0; // Reset tap count if user doesn't tap twice
+              hoverEffect.classList.remove('opacity-100');
+              hoverEffect.classList.add('opacity-0');
+            }, 500); // Wait 500ms for a second tap
           } else if (tapCount === 2) {
-            // Allow navigation on the second tap
+            // On second tap, proceed to the link
             window.location.href = cardLink.href;
-            tapCount = 0;  // Reset tap count after redirection
+            tapCount = 0; // Reset after navigating
           }
         });
       </script>
+      
       
       
       
