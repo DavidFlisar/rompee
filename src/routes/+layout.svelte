@@ -15,10 +15,13 @@
     });
   }
   import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+  import { injectAnalytics } from '@vercel/analytics/sveltekit'
 
 injectSpeedInsights();
+injectAnalytics() ;
 </script>
-
+injectSpeedInsights();
+injectAnalytics() ;
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
 
