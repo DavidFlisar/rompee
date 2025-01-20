@@ -1,3 +1,4 @@
+
 <div class="w-screen items-stretch">
     <div class="inline-block">
         <a class="btn btn-accent card card-normal h-32 m-3 " href="https://www.qbittorrent.org/download" target="_blank">
@@ -100,30 +101,24 @@
             </div>
         </a>
     </div>
-    
-    <div class="card card-compact w-full sm:w-80 bg-accent shadow-xl m-3 group hover:scale-105 transition-all duration-300" id="card">
+
+    <div class="inline-block card card-compact w-full sm:w-80 bg-accent shadow-xl m-3 group hover:scale-105 transition-all duration-300" id="card">
         <a href="https://www.qbittorrent.org/download" target="_blank" class="block">
           <figure class="relative">
-            
             <!-- Screenshot -->
-            <img src="https://blog.desdelinux.net/wp-content/uploads/2019/12/Qbittorrent_4.2.0.png" alt="qBittorrent Screenshot" class="w-full h-48 object-cover rounded-t-lg transition-all duration-300 group-hover:opacity-80">
-            
-            <!-- Hover Effect -->
+            <img src="https://blog.desdelinux.net/wp-content/uploads/2019/12/Qbittorrent_4.2.0.png" alt="" class="w-full h-48 object-cover rounded-t-lg transition-all duration-300 group-hover:opacity-80">
             <div class="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 opacity-0 transition-opacity duration-300 group-hover:opacity-100" id="hover-content">
               <div class="text-center text-white">
                 <h3 class="text-xl font-bold">qBittorrent</h3>
                 <p class="text-xs font-medium tracking-widest">THE BEST CLIENT ATM</p>
               </div>
             </div>
-      
-            <!-- Arrow Icon -->
             <div class="absolute bottom-1 right-3 transform opacity-0 transition-opacity duration-300 group-hover:opacity-100" id="hover-arrow">
               <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="white" stroke-width="0.542084" viewBox="0 0 24 24" class="w-8 h-8">
                 <path d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z" fill="white" stroke="white" stroke-width="0.542084"></path>
               </svg>
             </div>
           </figure>
-      
           <!-- Card Info Section -->
           <div class="card-body">
             <div class="card-title">
@@ -136,8 +131,38 @@
           </div>
         </a>
       </div>
-      
-      <script>
+    
+      <div class="inline-block card card-compact w-full sm:w-80 bg-accent shadow-xl m-3 group hover:scale-105 transition-all duration-300" id="card">
+        <a href="https://bt4gprx.com/" target="_blank" class="block">
+          <figure class="relative">
+            <!-- Screenshot -->
+            <img src=src/lib/images/bt4g.jpg alt="" class="w-full h-48 object-cover rounded-t-lg transition-all duration-300 group-hover:opacity-80">
+            <div class="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 opacity-0 transition-opacity duration-300 group-hover:opacity-100" id="hover-content">
+              <div class="text-center text-white">
+                <h3 class="text-xl font-bold">BT4G</h3>
+                <p class="text-xs font-medium tracking-widest">BIGGEST TORRENT LIBRARY</p>
+              </div>
+            </div>
+            <div class="absolute bottom-1 right-3 transform opacity-0 transition-opacity duration-300 group-hover:opacity-100" id="hover-arrow">
+              <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="white" stroke-width="0.542084" viewBox="0 0 24 24" class="w-8 h-8">
+                <path d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z" fill="white" stroke="white" stroke-width="0.542084"></path>
+              </svg>
+            </div>
+          </figure>
+          <!-- Card Info Section -->
+          <div class="card-body">
+            <div class="card-title">
+              <img src="https://bt4gprx.com/static/favicon.ico" alt="" class="w-6 h-6 mr-2" />
+              <h1 class="font-bold text-2xl">BT4G</h1>
+            </div>
+            <div class="flex items-center mt-2">
+                <div class="badge badge-secondary m-2">ALL</div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <script lang="ts">
+
         const card = document.getElementById('card');
         const hoverContent = document.getElementById('hover-content');
         const hoverArrow = document.getElementById('hover-arrow');
@@ -178,19 +203,6 @@
           });
         }
       </script>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-          
-    
 </div>
+
+
